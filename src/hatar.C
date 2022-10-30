@@ -270,3 +270,4 @@ fprintf(graphics,"plot '-' w l lw 3 lc 2\n");
   fflush(graphics);
   pclose(graphics);
 }
+
