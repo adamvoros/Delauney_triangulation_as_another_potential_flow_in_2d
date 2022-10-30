@@ -47,6 +47,3 @@ myDelaunay::myDelaunay(vector<Point<2> > &pvec, Int options):Delaunay(pvec, opti
     }
   }
 }
-
-
-
