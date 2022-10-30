@@ -255,9 +255,6 @@ fprintf(graphics,"plot '-' w l lw 3 lc 2\n");
 
 
 
- 
-
-
  vege:
 
   fprintf(graphics,"plot '-' w p pt 7 lc 1\n");  
@@ -270,4 +267,3 @@ fprintf(graphics,"plot '-' w l lw 3 lc 2\n");
   fflush(graphics);
   pclose(graphics);
 }
-
