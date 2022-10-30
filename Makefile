@@ -18,4 +18,3 @@ $(ODIR)/%.o: $(SDIR)/%.C
 
 clean: 
 	rm $(BDIR)/* $(ODIR)/*
-
